@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /private/
+Disallow: /admin/
+Disallow: /temp/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /logs/
+Disallow: /backup/
+Disallow: /images/
+Disallow: /scripts/
+Disallow: /styles/
+
+Sitemap: https://lafmo.net/sitemap.xml
